@@ -1,4 +1,5 @@
-Optimized Adaptive Disk Scheduling Algorithm
+**Optimized Adaptive Disk Scheduling Algorithm**
+
 📌 **Overview**
 
 This project implements an Optimized Adaptive Disk Scheduling Algorithm in Java, designed to improve performance over traditional disk scheduling techniques.
